@@ -4,7 +4,10 @@ import Articles from "@/src/components/articles";
 export default function Home({ posts }: { posts: PostMeta[] }) {
   return (
     <>
-      <h1>Teluk Bayur Utama</h1>
+      <h1>Pandanwangi Utama Residence</h1>
+      <h2>Teluk Bayur Utama Residence</h2>
+      <h3>Alibaba Village</h3>
+      <h4>Arumba Utama Village</h4>
       <Articles posts={posts} />
     </>
   );

@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <div className="container">
       <Head>
-        <title>UtamaPropertydanVila</title>
+        <title>Rumah2Lantai.Villa</title>
       </Head>
       <nav>
         <Link href="/">/home</Link>
